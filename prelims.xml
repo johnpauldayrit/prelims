@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<planets>
+    <planet>
+        <name>Mercury</name>
+        <primaryInfo>
+            <color>slate gray</color>
+            <texture>
+                <outer>rocky</outer>
+                <inner>iron</inner>
+            </texture>
+            <age>4.503 billion years</age>
+        </primaryInfo>
+        <solarRelatedInfo>
+            <distanceFromTheSun>58 million km</distanceFromTheSun>
+            <order>first</order>
+            <orbitInfo>
+                <orbitPeriod>88 days</orbitPeriod>
+                <orbitSpeed>47.87 km/s</orbitSpeed>
+            </orbitInfo>
+            <isSmallest>true</isSmallest>
+            <isClosest>true</isClosest>
+        </solarRelatedInfo>
+        <scienceRelatedInfo>
+            <gravity>3.7 m/s</gravity>
+            <radius>2,439.7 km</radius>
+            <magnitude>0.23</magnitude>
+            <mass>3.285 by 10^23 kg</mass>
+        </scienceRelatedInfo>
+        <environmentInfo>
+            <temperature>
+                <average>800°F</average>
+                <highest>850°F</highest>
+                <lowest>-290°F</lowest>
+            </temperature>
+            <lengthOfDay>58d 15h 30m</lengthOfDay>
+            <hasBiologicalLife>no</hasBiologicalLife>
+        </environmentInfo>
+    </planet>
+    
+    <planet>
+        <name>Venus</name>
+        <primaryInfo>
+            <color>yellow-white</color>
+            <texture>
+                <outer>smooth volcanic plains</outer>
+                <inner>rocky</inner>
+            </texture>
+            <age>4.503 billion years</age>
+        </primaryInfo>
+        <solarRelatedInfo>
+            <distanceFromTheSun>108.07 million km</distanceFromTheSun>
+            <order>second</order>
+            <orbitInfo>
+                <orbitPeriod>225 days</orbitPeriod>
+                <orbitSpeed>35.02 km/s</orbitSpeed>
+            </orbitInfo>
+            <isSmallest>false</isSmallest>
+            <isClosest>false</isClosest>
+        </solarRelatedInfo>
+        <scienceRelatedInfo>
+            <gravity>8.87 m/s</gravity>
+            <radius>6,051.8 km</radius>
+            <magnitude>-4.6</magnitude>
+            <mass>4.867 by 10^24 kg</mass>
+        </scienceRelatedInfo>
+        <environmentInfo>
+            <temperature>
+                <average>875°F</average>
+                <highest>900°F</highest>
+                <lowest>-150°F</lowest>
+            </temperature>
+            <lengthOfDay>243</lengthOfDay>
+            <hasBiologicalLife>no</hasBiologicalLife>
+        </environmentInfo>
+    </planet>
+
+    <planet>
+        <name>Earth</name>
+        <primaryInfo>
+            <colors>
+                <primaryColor>blue</primaryColor>
+                <secondaryColors>
+                    <color>brown,</color>
+                    <color>green</color>
+                    <color>red</color>
+                    <color>yellow</color>
+                    <color>orange</color>
+                </secondaryColors>
+            </colors>
+            <texture>
+                <outer>rocky</outer>
+                <outer>mountains</outer>
+                <outer>plains</outer>
+                <outer>canyons</outer>
+            </texture>
+            <age>4.543 billion years</age>
+        </primaryInfo>
+        <solarRelatedInfo>
+            <distanceFromTheSun>148.15 million km</distanceFromTheSun>
+            <order>third</order>
+            <orbitInfo>
+                <orbitPeriod>365 days</orbitPeriod>
+                <orbitSpeed>29.78 km/s</orbitSpeed>
+            </orbitInfo>
+            <isSmallest>false</isSmallest>
+            <isClosest>false</isClosest>
+        </solarRelatedInfo>
+        <scienceRelatedInfo>
+            <gravity>9.807 m/s²</gravity>
+            <radius>6,371 km</radius>
+            <magnitude>2.5</magnitude>
+            <mass> 5.972 × 10^24 kg</mass>
+        </scienceRelatedInfo>
+        <environmentInfo>
+            <temperature>
+                <average>57°F</average>
+                <highest>134°F</highest>
+                <lowest>-128.6°F</lowest>
+            </temperature>
+            <lengthOfDay>243</lengthOfDay>
+            <hasBiologicalLife>Yes</hasBiologicalLife>
+            <typesOfBiologicalLife>
+                <life1>Animalia</life1>
+                <life2>Plantae</life2>
+                <life3>Fungi</life3>
+                <life4>Protista</life4>
+                <life5>Monera </life5>
+            </typesOfBiologicalLife>
+        </environmentInfo>
+    </planet>
+
+    <planet>
+        <name>Mars</name>
+        <primaryInfo>
+            <color>rusty red</color>
+            <texture>
+                <outer>rocky volcanic plains</outer>
+            </texture>
+            <age>4.503 billion years</age>
+        </primaryInfo>
+        <solarRelatedInfo>
+            <distanceFromTheSun>244.53 million km</distanceFromTheSun>
+            <order>fourth</order>
+            <orbitInfo>
+                <orbitPeriod>687 days</orbitPeriod>
+                <orbitSpeed>24.077 km/s</orbitSpeed>
+            </orbitInfo>
+            <isSmallest>false</isSmallest>
+            <isClosest>false</isClosest>
+        </solarRelatedInfo>
+        <scienceRelatedInfo>
+            <gravity>3.721 m/s²</gravity>
+            <radius>3,389.5 km</radius>
+            <magnitude>-2.6</magnitude>
+            <mass>6.39 by 10^23 kg</mass>
+        </scienceRelatedInfo>
+        <environmentInfo>
+            <temperature>
+                <average>-71°F</average>
+                <highest>134°F</highest>
+                <lowest>-70.6°F</lowest>
+            </temperature>
+            <lengthOfDay>1d 0h 37m</lengthOfDay>
+            <hasBiologicalLife>no</hasBiologicalLife>
+        </environmentInfo>
+    </planet>
+
+    <planet>
+        <name>Venus</name>
+        <primaryInfo>
+            <color>white</color>
+            <texture>
+                <outer>firm</outer>
+            </texture>
+            <age>4.603 billion years</age>
+        </primaryInfo>
+        <solarRelatedInfo>
+            <distanceFromTheSun>740.74 million km</distanceFromTheSun>
+            <order>fifth</order>
+            <orbitInfo>
+                <orbitPeriod>12 years</orbitPeriod>
+                <orbitSpeed>13.07 km/s</orbitSpeed>
+            </orbitInfo>
+            <isLargest>true</isLargest>
+            <isClosest>false</isClosest>
+        </solarRelatedInfo>
+        <scienceRelatedInfo>
+            <gravity>9.27 m/s</gravity>
+            <radius>69,911 km</radius>
+            <magnitude>-8.6</magnitude>
+            <mass>1.898 × 10^27 kg</mass>
+        </scienceRelatedInfo>
+        <environmentInfo>
+            <temperature>
+                <average>238°F</average>
+                <highest>2,420°F</highest>
+                <lowest>-166°F</lowest>
+            </temperature>
+            <lengthOfDay>243</lengthOfDay>
+            <hasBiologicalLife>no</hasBiologicalLife>
+        </environmentInfo>
+    </planet>
+</planets>
